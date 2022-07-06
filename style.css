@@ -1,0 +1,29 @@
+h1{
+  color: chocolate;
+  font-family: Serif;
+  font-size: 400%;
+}
+h3{
+  color: slategrey;
+  font-family: Serif;
+  font-size: 200%;
+}
+h4{
+  color: black;
+  font-family: Serif;
+  font-size: 100%;
+}
+body {background-color: antiquewhite;}
+hr {
+  background-color:antiquewhite;
+border-style: none;
+border-top-style: dotted;
+border-width: 3px;
+border-color: darkgoldenrod;
+width: 20%
+      }
+p{
+  color: lightslategray;
+  font-family: Serif;
+  font-size: 100%;
+}
